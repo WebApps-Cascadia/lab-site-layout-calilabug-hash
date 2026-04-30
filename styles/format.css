@@ -5,10 +5,11 @@
 
 
 /* Formatting of Client Login Nav box */
-
-
-
-
+nav#client {
+    position: absolute;
+    top: 20px;
+    right: 30px;
+}
 /* END Formatting of Client Login Nav box 
 /*
 
